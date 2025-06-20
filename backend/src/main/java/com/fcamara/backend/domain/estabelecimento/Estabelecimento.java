@@ -26,7 +26,7 @@ public class Estabelecimento {
 
     private String cnpj;
 
-    private String endereço;
+    private String endereco;
 
     private String telefone;
 
