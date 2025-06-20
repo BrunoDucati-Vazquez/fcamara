@@ -1,0 +1,22 @@
+-- Inserindo 20 estabelecimentos
+INSERT INTO estabelecimento (nome, cnpj, endereco, telefone, vaga_motos, vaga_carros) VALUES
+('Estacionamento Central', '12345678000101', 'Rua Principal, 100', '(11) 9999-8888', 50, 100),
+('Parking Sul', '12345678000102', 'Avenida Brasil, 200', '(11) 9999-7777', 30, 80),
+('Garagem Norte', '12345678000103', 'Rua das Flores, 300', '(11) 9999-6666', 20, 60),
+('Estacionamento 24h', '12345678000104', 'Avenida Paulista, 400', '(11) 9999-5555', 40, 120),
+('Park Easy', '12345678000105', 'Rua Augusta, 500', '(11) 9999-4444', 25, 75),
+('Fast Park', '12345678000106', 'Alameda Santos, 600', '(11) 9999-3333', 35, 90),
+('Mega Parking', '12345678000107', 'Rua Oscar Freire, 700', '(11) 9999-2222', 45, 110),
+('Estacionamento Seguro', '12345678000108', 'Avenida Rebouças, 800', '(11) 9999-1111', 15, 50),
+('City Parking', '12345678000109', 'Rua Haddock Lobo, 900', '(11) 9999-0000', 20, 70),
+('Park & Go', '12345678000110', 'Avenida Brigadeiro, 1000', '(11) 9888-8888', 30, 85),
+('Estacionamento Express', '12345678000111', 'Rua da Consolação, 1100', '(11) 9777-7777', 40, 95),
+('Quick Park', '12345678000112', 'Avenida Angélica, 1200', '(11) 9666-6666', 25, 65),
+('Park VIP', '12345678000113', 'Rua Bela Cintra, 1300', '(11) 9555-5555', 50, 150),
+('Estacionamento Premium', '12345678000114', 'Alameda Jaú, 1400', '(11) 9444-4444', 20, 60),
+('Safe Parking', '12345678000115', 'Rua Estados Unidos, 1500', '(11) 9333-3333', 35, 80),
+('Park Center', '12345678000116', 'Avenida Europa, 1600', '(11) 9222-2222', 45, 100),
+('Estacionamento Top', '12345678000117', 'Rua Canadá, 1700', '(11) 9111-1111', 15, 55),
+('Mega Park', '12345678000118', 'Avenida América, 1800', '(11) 9000-0000', 30, 70),
+('City Estacionamento', '12345678000119', 'Rua México, 1900', '(11) 9888-9999', 40, 90),
+('Park Fácil', '12345678000120', 'Avenida Argentina, 2000', '(11) 9777-8888', 25, 75);
